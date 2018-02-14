@@ -1,6 +1,6 @@
 {
   "name": "hasselhoff-attack",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Hasselhoff attack script in mac",
   "main": "index.js",
   "scripts": {
