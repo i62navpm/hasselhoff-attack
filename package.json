@@ -1,0 +1,30 @@
+{
+  "name": "hasselhoff-attack",
+  "version": "0.0.6",
+  "description": "Hasselhoff attack script in mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i62navpm/hasselhoff-attack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/i62navpm/hasselhoff-attack/issues"
+  },
+  "homepage": "https://github.com/i62navpm/hasselhoff-attack#readme",
+  "keywords": [
+    "hasselhoff",
+    "attack",
+    "mac",
+    "wallpaper"
+  ],
+  "author": "i62navpm",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "hasselhoff-attack": "./index.js"
+  }
+}
