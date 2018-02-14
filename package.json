@@ -26,5 +26,8 @@
   "preferGlobal": true,
   "bin": {
     "hasselhoff-attack": "./index.js"
+  },
+  "dependencies": {
+    "wallpaper": "^2.6.0"
   }
 }
